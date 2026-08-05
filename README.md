@@ -3,35 +3,39 @@
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 **B.Tech Computer Science Engineering Student**
-💻 Passionate about **Full-Stack Development, Web Technologies & AI**
-🚀 I love building real-world applications and exploring new technologies.
+💻 Aspiring Software Developer | Full-Stack Development Enthusiast
+🚀 Passionate about building applications and exploring new technologies.
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🌱 Currently learning and improving my skills in **Full-Stack Development**
-* 🔭 Working on projects using **React, Next.js, Supabase & Python**
-* 💡 Interested in creating scalable and user-friendly applications
-* 📚 Always curious to learn, build, and solve problems through technology
+I'm a Computer Science Engineering student interested in **Full-Stack Development, Web Technologies, Databases, and AI-based applications**.
+
+I enjoy creating practical projects, learning new technologies, and improving my problem-solving skills through development.
+
+* 🌱 Currently learning advanced web development
+* 💡 Interested in building user-friendly and scalable applications
+* 🚀 Always exploring new tools and technologies
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### Frontend
+### Frontend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
 
 ### Database & Tools
 
@@ -42,49 +46,64 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🎲 BoardMate
+### 🎲 BoardMate — Full Stack Web Application
 
-**Full-Stack Board Gaming Community Platform**
+A platform designed for board game communities to discover events, host sessions, join games, and manage bookings.
 
-A web application designed for discovering board game events, hosting sessions, joining communities, and managing bookings.
-
-**Tech Used:**
+**Tech Stack:**
 `Next.js` `React` `Supabase` `Tailwind CSS`
 
 ---
 
-### 📊 EcoMetrics
+### 📊 EcoMetrics — Data Analysis Project
 
-**Python Data Analysis & Visualization Project**
+A Python-based project focused on data cleaning, exploratory data analysis, and visualization to extract meaningful insights.
 
-An exploratory data analysis project focused on data processing, visualization, and extracting meaningful insights.
-
-**Tech Used:**
+**Tech Stack:**
 `Python` `Pandas` `NumPy` `Matplotlib`
 
 ---
 
 ### 📚 Library Management System
 
-A Java-based application developed for managing books, users, and library operations.
+A Java-based application developed to manage library operations including book records and user management.
 
-**Tech Used:**
+**Tech Stack:**
 `Java` `OOP Concepts`
+
+---
+
+### 🏨 HosteLease — Web Application
+
+A web-based platform developed for hostel-related management and services.
+
+**Tech Stack:**
+`HTML` `CSS` `JavaScript`
 
 ---
 
 ## 📜 Certifications
 
-* Full-Stack Development 101 – Simplilearn SkillUp
-* Responsive Web Design – freeCodeCamp
-* SQL Fundamentals – Oracle Dev Gym
-* Python Fundamentals – Infosys Springboard
+* Full-Stack Development 101 — Simplilearn SkillUp
+* Responsive Web Design — freeCodeCamp
+* SQL Fundamentals — Oracle Dev Gym
+* Python Fundamentals — Infosys Springboard
+* Computer Fundamentals — Infosys Springboard
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Currently Learning
+
+* Advanced React & Next.js
+* Backend Development
+* Database Management
+* Building scalable full-stack applications
+
+---
+
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
 
@@ -92,9 +111,9 @@ A Java-based application developed for managing books, users, and library operat
 
 ## 🤝 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn link
+💼 LinkedIn: Add your LinkedIn profile
 📧 Email: Add your email
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Learning, building, and growing through technology.
