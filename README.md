@@ -72,7 +72,14 @@ A Python-based data analysis project focused on data cleaning, exploratory data 
 `Python` `Pandas` `NumPy` `Matplotlib`
 
 ---
+## 🚦 Maximising Throughput Using AI-Based Traffic Control System
 
+An AI-driven traffic management system designed to optimize traffic flow, reduce congestion, and improve overall road network efficiency by dynamically controlling traffic signals.
+
+**Tech Stack / Concepts:**  
+`Artificial Intelligence` `Machine Learning` `Python` `Data Processing`
+
+---
 ## 📚 Library Management System
 
 A Java-based application developed to manage library operations including book records, users, and library activities.
