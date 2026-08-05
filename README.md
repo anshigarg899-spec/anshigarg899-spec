@@ -99,7 +99,7 @@ A smart hostel management application designed to simplify hostel operations by 
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
 🏅 Full-Stack Development 101 — Simplilearn SkillUp  
 🏅 Responsive Web Design — freeCodeCamp  
@@ -108,8 +108,6 @@ A smart hostel management application designed to simplify hostel operations by 
 🏅 Computer Fundamentals — Infosys Springboard  
 
 ---
-
-# 🌱 Currently Learning
 
 ## 🌱 Currently Learning
 
