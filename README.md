@@ -3,99 +3,124 @@
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 **B.Tech Computer Science Engineering Student**
-💻 Passionate about **Full-Stack Development, Web Technologies & AI**
-🚀 I love building real-world applications and exploring new technologies.
+💻 Aspiring Software Developer | Full-Stack Development Enthusiast
+🚀 Building projects, exploring technologies, and learning something new every day.
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🌱 Currently learning and improving my skills in **Full-Stack Development**
-* 🔭 Working on projects using **React, Next.js, Supabase & Python**
-* 💡 Interested in creating scalable and user-friendly applications
-* 📚 Always curious to learn, build, and solve problems through technology
+I'm a Computer Science Engineering student passionate about software development and problem-solving.
+
+I enjoy creating applications, working with different technologies, and turning ideas into practical solutions. Currently exploring **Full-Stack Development, Databases, and AI-based applications**.
+
+* 🌱 Improving my skills in Web Development & Software Engineering
+* 💡 Interested in Full-Stack Development, AI, and Data-driven applications
+* 🔍 Love experimenting with new tools and technologies
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+* Python
+* Java
+* C
+* JavaScript
 
-### Frontend
+### Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+* HTML
+* CSS
+* React.js
+* Next.js
+* Tailwind CSS
 
-### Database & Tools
+### Database & Backend
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+* SQL
+* Supabase
+* Database Management Systems
+
+### Tools & Platforms
+
+* Git & GitHub
+* VS Code
+* Jupyter Notebook
+* Android Studio
+* Canva
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🎲 BoardMate
+### 🎲 BoardMate — Full Stack Web Application
 
-**Full-Stack Board Gaming Community Platform**
+A platform for board game communities to discover events, host sessions, and manage bookings.
 
-A web application designed for discovering board game events, hosting sessions, joining communities, and managing bookings.
-
-**Tech Used:**
+**Tech Stack:**
 `Next.js` `React` `Supabase` `Tailwind CSS`
 
 ---
 
-### 📊 EcoMetrics
+### 📊 EcoMetrics — Data Analysis Project
 
-**Python Data Analysis & Visualization Project**
+A Python-based project focused on data cleaning, exploratory data analysis, and visualization.
 
-An exploratory data analysis project focused on data processing, visualization, and extracting meaningful insights.
-
-**Tech Used:**
+**Tech Stack:**
 `Python` `Pandas` `NumPy` `Matplotlib`
+
+---
+
+### 🚗 Smart Obstacle Detection Car
+
+An Arduino-based project designed to detect and avoid obstacles using sensors.
+
+**Tech Stack:**
+`Arduino UNO` `Sensors`
 
 ---
 
 ### 📚 Library Management System
 
-A Java-based application developed for managing books, users, and library operations.
+A Java-based application developed to manage library operations.
 
-**Tech Used:**
+**Tech Stack:**
 `Java` `OOP Concepts`
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Learning
 
-* Full-Stack Development 101 – Simplilearn SkillUp
-* Responsive Web Design – freeCodeCamp
-* SQL Fundamentals – Oracle Dev Gym
-* Python Fundamentals – Infosys Springboard
+* Full-Stack Development 101 — Simplilearn SkillUp
+* Responsive Web Design — freeCodeCamp
+* SQL Fundamentals — Oracle Dev Gym
+* Python Fundamentals — Infosys Springboard
+* Computer Fundamentals — Infosys Springboard
 
 ---
 
-## 📈 GitHub Stats
+## 🌱 Currently Learning
+
+* Advanced React & Next.js
+* Backend Development
+* Database Design
+* Building scalable applications
+
+---
+
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-💼 LinkedIn: Add your LinkedIn link
+💼 LinkedIn: Add your LinkedIn profile
 📧 Email: Add your email
 
 ---
 
-⭐ Thanks for visiting my profile!
-
+⭐ "Learning, building, and growing one project at a time."
