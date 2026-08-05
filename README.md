@@ -110,20 +110,10 @@ A smart hostel management application designed to simplify hostel operations by 
 
 ---
 
-# 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME" />
-
----
-
 # 🤝 Connect With Me
 
-💼 LinkedIn: Add your LinkedIn profile  
-📧 Email: Add your email  
+💼 LinkedIn: www.linkedin.com/in/anshika-garg-03a7b3307
+📧 Email: anshigarg899@gmail.com
 
 ---
 
