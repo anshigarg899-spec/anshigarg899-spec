@@ -10,13 +10,14 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science Engineering student interested in **Full-Stack Development, Web Technologies, Databases, and AI-based applications**.
+I'm a Computer Science Engineering student who enjoys turning ideas into real-world applications.
 
-I enjoy creating practical projects, learning new technologies, and improving my problem-solving skills through development.
+I am passionate about software development and love exploring new technologies through hands-on projects. I believe in learning by building, whether it's a web application, data analysis project, or experimenting with new concepts.
 
-- 🌱 Currently learning advanced web development
-- 💡 Interested in Full-Stack Development and AI applications
-- 🚀 Building projects and exploring new technologies
+- 🎓 Pursuing B.Tech in Computer Science Engineering
+- 💻 Exploring Full-Stack Development, Databases, and AI-based solutions
+- 🚀 Building projects to strengthen my development and problem-solving skills
+- 📚 Always learning, experimenting, and improving my technical knowledge
 
 ---
 
@@ -110,16 +111,20 @@ A smart hostel management application designed to simplify hostel operations by 
 
 # 🌱 Currently Learning
 
-- Advanced React & Next.js
-- Backend Development
-- Database Management
-- Building scalable full-stack applications
+## 🌱 Currently Learning
+
+- Building scalable full-stack applications using React, Next.js & Supabase
+- Strengthening backend development and database concepts
+- Exploring Artificial Intelligence and AI-based solutions
+- Improving problem-solving skills through Data Structures & Algorithms
+- Learning best practices for clean and maintainable code
 
 ---
 
 # 🤝 Connect With Me
 
 💼 LinkedIn: www.linkedin.com/in/anshika-garg-03a7b3307
+
 📧 Email: anshigarg899@gmail.com
 
 ---
